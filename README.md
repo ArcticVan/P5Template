@@ -1,3 +1,3 @@
 # P5Template
-useful p5 template for beginners like me
-just download it and use it in vscode
+Useful p5 template for beginners like me.  
+Just download it and use it in vscode.
